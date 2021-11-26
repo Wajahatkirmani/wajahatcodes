@@ -1,4 +1,4 @@
-# wajahatcodes
+# Customer Churn
 Churn rate is a critical metric of customer satisfaction. Low churn rates mean happy customers; high churn rates mean customers are leaving you. A small rate of monthly/quarterly churn compounds over time. 1% monthly churn quickly translates to almost 12% yearly churn. 
 What is the churn rate?
 Wikipedia states that the churn rate (also called attrition rate) measures the number of individuals or items moving out of a collective group over a specific period. It applies in many contexts, but the mainstream understanding of churn rate is related to the business case of customers that stop buying from you.
